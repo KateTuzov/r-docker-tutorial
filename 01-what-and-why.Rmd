@@ -48,7 +48,7 @@ In short, you should use Docker because
 to details such as R and Latex package versions
 - it makes sure that your analyses are **reproducible**.
 
-There are a couple of other points what Docker helps with:
+There are a couple of other points which Docker helps with:
 
 - Portability: Since a Docker container can easily be sent to another machine,
 you can set up everything on your own computer and then run the analyses on e.g. a
